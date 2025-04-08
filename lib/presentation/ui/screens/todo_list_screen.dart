@@ -12,10 +12,10 @@ class TodoListScreen extends StatefulWidget{
   State<StatefulWidget> createState() {
      return _TodoListScreenState();
   }
-
 }
 
 class _TodoListScreenState extends State<TodoListScreen>{
+
   List<TodoModel> _todoList = [];
   TodoStorage _todoStorage = TodoStorage();
 
