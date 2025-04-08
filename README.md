@@ -36,10 +36,10 @@ This is a simple Todo App designed to help users keep track of their daily todos
     fvm use
     
 ## Pub Get
-   flutter pub get
+    flutter pub get
    
 ## Build APK
-   flutter build apk
+    flutter build apk
 
 ## Tech Stack
 - Flutter
