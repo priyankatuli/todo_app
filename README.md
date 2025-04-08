@@ -26,7 +26,7 @@ This is a simple Todo App designed to help users keep track of their daily tasks
    - Simple to use, Lightweight
    - Human readable,open it (Notepad,Excel)
    - No need for complex database setup
-   - 
+
 ## Installation
    
 ## Git Clone
