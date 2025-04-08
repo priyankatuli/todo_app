@@ -45,15 +45,15 @@ This is a simple Todo App designed to help users keep track of their daily tasks
 
 ## Screenshots
 
-1. TodoList
+1. TodoList: 
 Displays all todos categorized into All, Undone, and Done.
 ![TodoList](assets/images/todolist.png)
    
-2. Create New Todo
+2. Create New Todo: 
 Users can add a new todo with a title and description.
 ![New Todo](assets/images/new_todo.png)
    
-3. Completed Todos or not
+3. Completed Todos or not:
 Visually shows which todos are marked as done or undone.
 ![Undone](assets/images/undone.png)![Done](assets/images/done.png)
 
