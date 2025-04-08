@@ -1,4 +1,4 @@
-# 📝 Todo App
+## 📝 Todo App
 
 This is a simple Todo App designed to help users keep track of their daily tasks efficiently.
 
@@ -9,7 +9,7 @@ This is a simple Todo App designed to help users keep track of their daily tasks
       - Automatically records the task creation time.
 
  🔁 **Update Task Status**
-      - Easily mark tasks as **Done** or **Undone**
+      - Easily mark tasks as **Done** or **Undone**.
 
  🗑️ **Swipe to Delete**
       - Quickly remove tasks using the intuitive `Dismissible` widget.
@@ -34,8 +34,10 @@ This is a simple Todo App designed to help users keep track of their daily tasks
 
 ## Flutter Version Management
     fvm use
+    
 ## Pub Get
    flutter pub get
+   
 ## Build APK
    flutter build apk
 
