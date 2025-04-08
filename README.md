@@ -1,4 +1,4 @@
-# 📝 Todo App
+📝 Todo App
 
 This is a simple Todo App designed to help users keep track of their daily tasks efficiently.
 
@@ -22,3 +22,26 @@ This is a simple Todo App designed to help users keep track of their daily tasks
    The `.csv` file is stored using the `path_provider` package in the app’s **application documents directory**, typically found in:
    Android: /data/data/<your.app.package.name>/app_flutter/files_name
    You can view this path using **Device Explorer** in Android Studio.
+
+## Why use CSV instead of Database
+   - Simple to use, Lightweight
+   - Human readable,open it (Notepad,Excel)
+   - No need for complex database setup
+   - 
+## Installation
+   
+## Git Clone
+    git clone https://github.com/priyankatuli/todo_app.git
+
+## Flutter Version Management
+    fvm use
+## Pub Get
+   fvm pub get
+   or
+   flutter pub get
+## Build APK
+   flutter build apk
+
+## Tech Stack
+- Flutter
+- Dart
