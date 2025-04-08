@@ -6,7 +6,7 @@ import 'package:todo_app/data/models/todo_model.dart';
 
 class TodoStorage{
 
-    //get the file to store CSV file
+  //get the file to store CSV file
   Future<File> _getCsvFile() async{
     final directory = await getApplicationDocumentsDirectory();
     return File('${directory.path}/todos.csv');
