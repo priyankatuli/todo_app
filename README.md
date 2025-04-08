@@ -35,8 +35,6 @@ This is a simple Todo App designed to help users keep track of their daily tasks
 ## Flutter Version Management
     fvm use
 ## Pub Get
-   fvm pub get
-   or
    flutter pub get
 ## Build APK
    flutter build apk
