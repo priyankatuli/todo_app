@@ -1,6 +1,6 @@
 # 📝 Todo App
 
-This is a simple Todo App designed to help users keep track of their daily tasks efficiently.
+This is a simple Todo App designed to help users keep track of their daily todos efficiently.
 
 ## 🚀 Features
 
@@ -8,14 +8,14 @@ This is a simple Todo App designed to help users keep track of their daily tasks
       - Add tasks with a title and description.
       - Automatically records the task creation time.
 
- 🔁 **Update Task Status**
-      - Easily mark tasks as **Done** or **Undone**
+ 🔁 **Update Todo Status**
+      - Easily mark todos as **Done** or **Undone**
 
  🗑️ **Swipe to Delete**
-      - Quickly remove tasks using the intuitive `Dismissible` widget.
+      - Quickly remove todos using the intuitive `Dismissible` widget.
 
  💾 **CSV-Based Data Storage**
-     - Tasks are saved locally in a `.csv` file within the device's document directory.
+     - Todos are saved locally in a `.csv` file within the device's document directory.
 
 ## 📂 File Storage Location
 
@@ -34,8 +34,10 @@ This is a simple Todo App designed to help users keep track of their daily tasks
 
 ## Flutter Version Management
     fvm use
+    
 ## Pub Get
    flutter pub get
+   
 ## Build APK
    flutter build apk
 
@@ -47,13 +49,14 @@ This is a simple Todo App designed to help users keep track of their daily tasks
 
 1. TodoList: 
 Displays all todos categorized into All, Undone, and Done.
-                                 ![TodoList](assets/images/todolist.png)
+
+   ![TodoList](assets/images/todolist.png)
    
-2. Create New Todo: 
-Users can add a new todo with a title and description.
-                                 ![New Todo](assets/images/new_todo.png)
+3. Create New Todo: Users can add a new todo with a title and description.
+
+   ![New Todo](assets/images/new_todo.png)
    
-3. Completed Todos or not:
-Visually shows which todos are marked as done or undone.
-![Undone](assets/images/undone.png)![Done](assets/images/done.png)
+5. Completed Todos or not: Visually shows which todos are marked as done or undone.
+
+   ![Undone](assets/images/undone.png)             ![Done](assets/images/done.png)
 
