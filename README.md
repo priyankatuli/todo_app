@@ -20,8 +20,7 @@ This is a simple Todo App designed to help users keep track of their daily tasks
 ## 📂 File Storage Location
 
    The `.csv` file is stored using the `path_provider` package in the app’s **application documents directory**, typically found in:
-   Android: /data/data/<your.app.package.name>/app_flutter/files_name
-   You can view this path using **Device Explorer** in Android Studio.
+   Android: /data/data/<your.app.package.name>/app_flutter/files_name. You can view this path using **Device Explorer** in Android Studio.
 
 ## Why use CSV instead of Database
    - Simple to use, Lightweight
