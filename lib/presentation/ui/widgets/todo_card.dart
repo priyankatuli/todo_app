@@ -10,7 +10,6 @@ class TodoCard extends StatefulWidget{
   //final VoidCallback onDelete;
   final VoidCallback onIconButtonPressed;
 
-
   @override
   State<StatefulWidget> createState() {
     return _TodoCardState();
